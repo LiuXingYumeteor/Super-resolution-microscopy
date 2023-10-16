@@ -35,6 +35,30 @@ The formats supported by the video transcoder are: resolution: (64, 64), frame r
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;![image](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/5b50aaf3-3aef-4264-b7ac-c4f6aa5ead5e)
 
+## Diffraction restoration of fluorescence spot array at a distance of 160 nm
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
+![35 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/5d776617-eaa6-4213-a81d-6a15a1cda388)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![35](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/fb2a919d-f27e-4506-9d9b-bbb72bfb0d11)
+
+## Diffraction restoration of fluorescence spot array at a distance of 160 nm
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
+![138 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/9e21a622-ee42-4f48-a62b-6face7dccaed)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![138](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/83f38702-a3b5-4297-a9ce-ccd9d968bbe3)
+
+## Diffraction restoration of fluorescence spot array at a distance of 120 nm
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
+![267 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/80e56baa-1516-46c8-9dba-6248255418b5)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![267](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/3da66daf-e874-44f5-a864-868d8c32e33d)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Conclusions
+&emsp;&emsp;In summery, this technique demonstrates the potential of combining the spatial-frequency shift method with the deep learning method to achieve super-resolution imaging. We first demonstrate that the grating designed in this work can transform evanescent waves into propagating waves. Then, we employ a deep conditional generative model to reconstruct the far-field intensity distribution of an object before it passes through the grating in free space. We can resolve an object structure with a spatial resolution of more than λ/5 in the far field and ensure that the structural similarity between far-field imaging (1.5um) and near-field imaging (5nm) is 0.89.
+While our approach is promising, like other similar methods, it is not without limitations. A primary constraint is that the ability to recover features is ultimately bounded by the training set. Nonetheless, despite these limitations, this technique presents a significant potential for future applications. It can parse most super-resolution details below the system's resolution limit from far-field detected information in a single pass. Such capabilities make it viable for applications in biomedical imaging or as a novel optical characterization tool for rapid data acquisition and artificial intelligence.
+
+
+
+
+
 
 
 
