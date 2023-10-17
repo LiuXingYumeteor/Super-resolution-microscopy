@@ -40,18 +40,18 @@ The formats supported by the video transcoder are: resolution: (64, 64), frame r
 ## It should be noted that the display image is in GIF format, and the AVI format that meets the requirements can be found in the database of the project
 
 ## Diffraction restoration of fluorescence spot array at a distance of 160 nm
-### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Transcode video
-![35 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35%20(2).gif)&emsp;![35](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35.gif)
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Transcode video
+![35 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35%20(2).gif)&emsp;&emsp;&emsp;&emsp;&emsp;![35](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35.gif)
 
 ## Diffraction restoration of fluorescence spot array at a distance of 160 nm
-### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
 ![138 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/138%20(2).gif)
-&emsp;![138](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/138.gif)
+&emsp;&emsp;&emsp;&emsp;&emsp;![138](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/138.gif)
 
 ## Diffraction restoration of fluorescence spot array at a distance of 120 nm
-### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
+### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
 ![267 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/267%20(2).gif)
-&emsp;![267](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/267.gif)
+&emsp;&emsp;&emsp;&emsp;&emsp;![267](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/267.gif)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
