@@ -6,26 +6,26 @@ You can use transcoders for static images in the image format (256,256), of cour
 
 ## The following is a network structure diagram：
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![image](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/9d9d3598-3baf-4514-87a6-1b6407a93053)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![image](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/%E7%8E%B0%E5%9C%A8.png)
 
 # Presentation
 
-## Diffraction restoration of fluorescence spot array at a distance of 300 nm
-
-### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
-![untitled2](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/b1750b8f-a968-4001-bef0-dd24860d4a26)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![untitled](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/8891dbef-bde2-4d70-bfee-1109827522c7)
-
-
 ## Diffraction restoration of fluorescence spot array at a distance of 180 nm
 
-### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
-![untitled2](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/a1238cea-e972-4ec1-ba45-127659eb4e7f)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![untitled](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/f4bd32bb-d954-4d08-8daa-ef7e356a21df)
+### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
+![untitled2](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/180nm1%20(2).png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![untitled](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/180nm1%20(1).png)
+
+
+## Diffraction restoration of fluorescence spot array at a distance of 110 nm
+
+### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
+![untitled2](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/110nm%20(2).png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![untitled](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/110nm%20(1).png)
 
 
 ## Randomly arranged fluorescent particles (minimum spacing 100 nm)
 
-### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
-![cb3cf9a2a0ab4d0f9a49d31ca845f3e](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/ca1ca0db-b616-43d3-b2d6-fd6774e61755)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![77d1a856b42c40d2eaa48c0f4b37b6b](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/d78f93b1-bb62-476b-a393-9c823ca05048)
+### Degenerate image &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode image
+![cb3cf9a2a0ab4d0f9a49d31ca845f3e](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/100(2).png)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![77d1a856b42c40d2eaa48c0f4b37b6b](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/100.png)
 
 # Super-resolution imaging of dynamic sample
 
@@ -33,7 +33,7 @@ The formats supported by the video transcoder are: resolution: (64, 64), frame r
 
 ## The following is a network structure diagram：
 
-![image](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/5b50aaf3-3aef-4264-b7ac-c4f6aa5ead5e)
+![image](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/sudu.png)
 
 # Presentation
 
@@ -41,17 +41,17 @@ The formats supported by the video transcoder are: resolution: (64, 64), frame r
 
 ## Diffraction restoration of fluorescence spot array at a distance of 160 nm
 ### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Transcode video
-![35 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/5d776617-eaa6-4213-a81d-6a15a1cda388)&emsp;![35](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/fb2a919d-f27e-4506-9d9b-bbb72bfb0d11)
+![35 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35%20(2).gif)&emsp;![35](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/35.gif)
 
 ## Diffraction restoration of fluorescence spot array at a distance of 160 nm
 ### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
-![138 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/9e21a622-ee42-4f48-a62b-6face7dccaed)
-&emsp;![138](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/83f38702-a3b5-4297-a9ce-ccd9d968bbe3)
+![138 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/138%20(2).gif)
+&emsp;![138](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/138.gif)
 
 ## Diffraction restoration of fluorescence spot array at a distance of 120 nm
 ### Degenerate video &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Transcode video
-![267 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/80e56baa-1516-46c8-9dba-6248255418b5)
-&emsp;![267](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/assets/125789189/3da66daf-e874-44f5-a864-868d8c32e33d)
+![267 (2)](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/267%20(2).gif)
+&emsp;![267](https://github.com/LiuXingYumeteor/Super-resolution-microscopy/blob/master/SHOW_Video/267.gif)
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
